@@ -29,7 +29,7 @@ Este proyecto es una calculadora básica implementada en Java que permite realiz
 
     ```bash
     git clone https://github.com/gianpoker1/Calculadora.git
-    cd tu-repositorio
+    cd Calculadora
     ```
 
 2. Compila el archivo `CalculadoraApp.java`:
