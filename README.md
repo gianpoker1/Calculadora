@@ -54,6 +54,9 @@ Aplicacion Calculadora
 5. Salir 
 
 Operacion a realizar?: 1 
+
 Proporciona el primer operando: 5 
+
 Proporciona el segundo operando: 3 
+
 Resultado Suma: 8.0
