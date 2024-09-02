@@ -28,7 +28,7 @@ Este proyecto es una calculadora básica implementada en Java que permite realiz
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/tu-usuario/tu-repositorio.git
+    git clone https://github.com/tu-usuario/tu-repositorio.git]
     cd tu-repositorio
     ```
 
